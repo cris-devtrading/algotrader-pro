@@ -154,8 +154,8 @@ Specializing in automated trading systems, broker API integrations, options anal
 
 🔗 [OptionsGuru — Live Options Analyzer](https://option-guru.vercel.app)  
 🔗 [CCL Radar v2 — Argentine ADR/CEDEAR Monitor](https://ccl-radar.vercel.app)  
-🔗 [BotSignal Latam — Telegram Signal Channel](https://t.me/BotSignalLatam)  
-📧 Open for freelance projects — [Upwork](https://www.upwork.com) | [Fiverr](https://www.fiverr.com)
+🔗 [BotSignal Latam — Telegram Signal Channel](https://botsignal.vercel.app)  
+📧 Open for freelance projects — [Upwork](https://www.upwork.com/freelancers/cristianchaves) | [Fiverr](https://www.fiverr.com/cristianchaves)
 
 ---
 
