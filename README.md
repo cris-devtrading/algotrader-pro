@@ -156,7 +156,8 @@ Specializing in automated trading systems, broker API integrations, options anal
 🔗 [CCL Radar v2 — Argentine ADR/CEDEAR Monitor](https://ccl-radar.vercel.app)  
 🔗 [BotSignal Latam — Telegram Signal Channel](https://botsignal.vercel.app)  
 📧 Open for freelance projects — [Upwork](https://www.upwork.com/freelancers/cristianchaves) | [Fiverr](https://www.fiverr.com/cristianchaves)
-
+📧 Contacto: quantedgelatam@gmail.com
+🌐 GitHub: github.com/cris-devtrading
 ---
 
 ## 📄 License
